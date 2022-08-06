@@ -23,8 +23,10 @@ Parameters:
 - `--help`
   - Display the help menu.
 - `--rush` or `-r`
-  - Use Rush Mode emails.
+  - Use Rush Mode (alternative TLD) emails.
 - `--verbose` or `-v`
   - Enable verbose mode (good for debugging).
 - `--lynx` or `-l`
   - Render emails sent in HTML using Lynx.
+
+Press `q` to quit.  CTRL + C will not quit.
